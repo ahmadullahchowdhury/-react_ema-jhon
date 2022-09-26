@@ -1,0 +1,26 @@
+.products-container{
+    width: 400px;
+    height: 510px;
+    border: 2px solid orange;
+    position: relative;
+    
+}
+
+img{
+    width: 380px;
+}
+button{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: burlywood;
+    border: none;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    padding-left: 10px;
+}
